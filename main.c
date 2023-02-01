@@ -7,7 +7,7 @@
 
 #include <stdio.h>
 
-int main(int argc, char * argv[]) {
+int main(int argc, char *argv[]) {
     
     printf("argc is %d\n",argc);
     int i,N;
