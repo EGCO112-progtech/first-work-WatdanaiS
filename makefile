@@ -1,4 +1,4 @@
-DEPS= mark
+DEPS= test
 
 compile: main.c
 	gcc main.c -o $(DEPS)
